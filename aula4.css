@@ -1,0 +1,45 @@
+
+.titulo {
+    color: royalblue;
+    font-family: monospace;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    text-shadow: 3px 8px 6px black;
+    float: left;
+    top: 80px;
+    position: absolute;
+    left: 80px;
+}
+
+.texto {
+    background-color: silver;
+    border: 2px black solid;
+    border-bottom: 6px blue solid;
+    padding: 10px;
+    margin: 50px;
+    height: 50px;
+}
+
+.logo {
+    float: left;
+}
+
+.fundo {
+    background-image: url(logo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.link {
+    color: red;
+    text-decoration: none;
+    font-size: 20pt;
+}
+
+.link:hover {
+    color: royalblue;
+    text-decoration: underline;
+} 
