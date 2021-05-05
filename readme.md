@@ -37,6 +37,12 @@ Entrada -> Processamento -> Saida
 
 E/S -> I/O
 
+# GIT
+
+- git commit
+- git pull
+- git push
+
 
 
 
