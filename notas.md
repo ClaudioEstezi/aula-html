@@ -29,7 +29,13 @@
 - WebStorm -> IDE Paga
 
 
+# Lógica de Programação
 
+## O que um programa
+
+Entrada -> Processamento -> Saida
+
+E/S -> I/O
 
 
 
